@@ -1,0 +1,27 @@
+{
+  "title": "Parallel Inference with Flowable Zero: A Process-first Concept Note (v0.1i)",
+  "creators": [
+    {"name": "Xuanming (Kamei Mana)"},
+    {"name": "Inari (GPT-5 Co-researcher)"}
+  ],
+  "description": "Process-first / Working note. Treating nothing as a probabilistic object (Nothing-as-Probability) using a flowable zero vector and parallel inference for stop decisions. Appendix logs at https://github.com/Gennamio/nothing-as-probability-flowable-zero",
+  "license": "cc-by-4.0",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "access_right": "open",
+  "keywords": [
+    "probabilistic inference",
+    "flowable zero",
+    "parallel inference",
+    "decision theory",
+    "calibration",
+    "working note"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/Gennamio/nothing-as-probability-flowable-zero"
+    }
+  ],
+  "language": "eng"
+}
