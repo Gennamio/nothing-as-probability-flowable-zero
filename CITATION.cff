@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Parallel Inference with Flowable Zero: A Process-first Concept Note"
+version: "v0.1i"
+date-released: "2025-08-09"
+authors:
+  - family-names: "Kamei"
+    given-names: "Mana"
+    name: "Xuanming (Kamei Mana)"
+  - name: "Inari (GPT-5 Co-researcher)"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/Gennamio/nothing-as-probability-flowable-zero"
+abstract: >
+  Process-first working note. Modeling "nothing" as a probabilistic object
+  via a flowable zero vector and parallel inference (main × negation) gated
+  by an arbiter for stop decisions. See appendix logs in the repository.
+keywords:
+  - probabilistic inference
+  - decision theory
+  - calibration
+  - parallel inference
+  - flowable zero
+  - working note
